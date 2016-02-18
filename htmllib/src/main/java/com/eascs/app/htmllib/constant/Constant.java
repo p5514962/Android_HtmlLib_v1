@@ -22,7 +22,7 @@ public class Constant {
 
     public final static String JS_HANDLER = "testJavascriptHandler";
 
-    public final static String NATIVE_HANDLER = "testNativeHandler";
+//    public final static String NATIVE_HANDLER = "testNativeHandler";
 
     public final static String JS_LOAD_FUNCTION_AND_CALLBACK = "javascript:window." + kInterface
             + ".onResultForScript(%s,%s)";
